@@ -150,5 +150,3 @@ _(A visualization of regression results will be displayed in the notebook.)_
 - Explore **Lasso/Ridge regression** to prevent overfitting.
 
 ---
-
-This README is **formatted for GitHub Markdown** and will display correctly when uploaded. 🚀
